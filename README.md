@@ -17,7 +17,7 @@ For more information, I collected quite a few of great article:
 - [twocentstudios/the-making-of-vinylogue](http://twocentstudios.com/blog/2013/04/03/the-making-of-vinylogue/)
 - [basic-mvvm-with-reactivecocoa](http://cocoasamurai.blogspot.ca/2013/03/basic-mvvm-with-reactivecocoa.html)
 
-For help and troubleshooting, as the authors state, he would prefer to ask the question at:
+For help and troubleshooting:
 - [stackoverflow/reactive-cocoa](http://stackoverflow.com/questions/tagged/reactive-cocoa)
 - [github/reactivecocoa](http://stackoverflow.com/questions/tagged/reactive-cocoa)
 
